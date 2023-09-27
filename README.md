@@ -5,6 +5,7 @@ En esta materia estamos viendo lo que está viendo a continuación.... esto XD, 
 
 ### Fundmamentos de la computación 
 * Profesor: Osiel Morales
+En esta materia estamos viendo los sistemas operativos y su arquitectura de cada uno, conocer el lenguaje "_C_" y como programarlo, algoritmos, diagramas de flujo y practicas de ello.
 
 ### Introducción a la ciberseguridad
 * Profesora: Cynthia 
