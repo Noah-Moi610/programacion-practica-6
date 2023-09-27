@@ -14,5 +14,7 @@ En esta materia estamos viendo como es el mundo laboral de nuestra carrera de ci
 ### Matematicas 1
 * Profesor: Rojo Trejo 
 
+En esta materia estamos repasando temas de anterioridad y reforzandolos, aprendiendo funciones lineales,cuadraticasa, cortaduras de Dedekind, cifrados en binario 
+
 ### Algebra 
 * Profesor: Hugo 
