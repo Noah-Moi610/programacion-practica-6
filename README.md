@@ -14,3 +14,5 @@ En esta materia estamos viendo lo que está viendo a continuación.... esto XD, 
 
 ### Algebra 
 * Profesor: Hugo 
+
+En esta materia estamos viendo los vestores y matrices, como son sus operaciones y como programarlar en python, suma,resta,multiplicación de vectores y matrices, encontrar la determinante menor de cada una.
