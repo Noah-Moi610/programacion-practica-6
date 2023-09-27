@@ -12,5 +12,7 @@ En esta materia estamos viendo lo que está viendo a continuación.... esto XD, 
 ### Matematicas 1
 * Profesor: Rojo Trejo 
 
+En esta materia estamos repasando temas de anterioridad y reforzandolos, aprendiendo funciones lineales,cuadraticasa, cortaduras de Dedekind, cifrados en binario 
+
 ### Algebra 
 * Profesor: Hugo 
